@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numerical Analysis on Shanonhaliwell&#39;s Blog</title>
+    <link>shanonhaliwell.github.io/tags/numerical-analysis/</link>
+    <description>Recent content in Numerical Analysis on Shanonhaliwell&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>youremail@domain.com (Shanonhaliwell&#39;s Blog)</managingEditor>
+    <webMaster>youremail@domain.com (Shanonhaliwell&#39;s Blog)</webMaster>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="shanonhaliwell.github.io/tags/numerical-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Bisection method</title>
+      <link>shanonhaliwell.github.io/post/2018-10-10-the-bisection-method/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
+      <guid>shanonhaliwell.github.io/post/2018-10-10-the-bisection-method/</guid>
+      <description>The bisection method is a simple root-finding method. Methods for finding are iterative and try to find an approximate root \(x\) that fufills \(|f(x)| \leq \epsilon\), where \(\epsilon\) is a small number related as tolerance.
+Being \(f\) a nonlinear equation and \([a,b]\) the interval where the root has to be found, in each iteration, the bisection method algorithm evaluates \(f\) at the midpoint \(c\) of the interval \([a,b]\) and compares it against the evaluation at \(a\) and \(b\).</description>
+    </item>
+    
+  </channel>
+</rss>
