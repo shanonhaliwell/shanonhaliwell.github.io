@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shanonhaliwell&#39;s Blog</title>
-    <link>shanonhaliwell.github.io/tags/</link>
+    <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/</link>
     <description>Recent content in Tags on Shanonhaliwell&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,69 +10,69 @@
     <webMaster>youremail@domain.com (Shanonhaliwell&#39;s Blog)</webMaster>
     <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="shanonhaliwell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bigimg</title>
-      <link>shanonhaliwell.github.io/tags/bigimg/</link>
+      <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/bigimg/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
-      <guid>shanonhaliwell.github.io/tags/bigimg/</guid>
+      <guid>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/bigimg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>shanonhaliwell.github.io/tags/code/</link>
+      <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/code/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
-      <guid>shanonhaliwell.github.io/tags/code/</guid>
+      <guid>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example</title>
-      <link>shanonhaliwell.github.io/tags/example/</link>
+      <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/example/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
-      <guid>shanonhaliwell.github.io/tags/example/</guid>
+      <guid>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>shanonhaliwell.github.io/tags/markdown/</link>
+      <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
-      <guid>shanonhaliwell.github.io/tags/markdown/</guid>
+      <guid>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math</title>
-      <link>shanonhaliwell.github.io/tags/math/</link>
+      <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/math/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
-      <guid>shanonhaliwell.github.io/tags/math/</guid>
+      <guid>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical Analysis</title>
-      <link>shanonhaliwell.github.io/tags/numerical-analysis/</link>
+      <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/numerical-analysis/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
-      <guid>shanonhaliwell.github.io/tags/numerical-analysis/</guid>
+      <guid>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/numerical-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photoswipe</title>
-      <link>shanonhaliwell.github.io/tags/photoswipe/</link>
+      <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/photoswipe/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
-      <guid>shanonhaliwell.github.io/tags/photoswipe/</guid>
+      <guid>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/photoswipe/</guid>
       <description></description>
     </item>
     
