@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shanonhaliwell&#39;s Blog</title>
-    <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/categories/</link>
+    <link>https://shanonhaliwell.github.io/categories/</link>
     <description>Recent content in Categories on Shanonhaliwell&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,7 +10,7 @@
     <webMaster>youremail@domain.com (Shanonhaliwell&#39;s Blog)</webMaster>
     <copyright>Copyright (c) 2016 - 2018, Shanonhaliwell; all rights reserved.</copyright>
     
-	<atom:link href="https://shanonhaliwell.github.io/shanonhaliwell.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shanonhaliwell.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

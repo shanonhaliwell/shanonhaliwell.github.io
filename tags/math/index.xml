@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on Shanonhaliwell&#39;s Blog</title>
-    <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/math/</link>
+    <link>https://shanonhaliwell.github.io/tags/math/</link>
     <description>Recent content in Math on Shanonhaliwell&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,25 +11,25 @@
     <copyright>Copyright (c) 2016 - 2018, Shanonhaliwell; all rights reserved.</copyright>
     <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shanonhaliwell.github.io/shanonhaliwell.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shanonhaliwell.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Bisection method</title>
-      <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/post/2018-10-10-the-bisection-method/</link>
+      <link>https://shanonhaliwell.github.io/post/2018-10-10-the-bisection-method/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
-      <guid>https://shanonhaliwell.github.io/shanonhaliwell.github.io/post/2018-10-10-the-bisection-method/</guid>
+      <guid>https://shanonhaliwell.github.io/post/2018-10-10-the-bisection-method/</guid>
       <description>The bisection method is a simple root-finding method. Methods for finding are iterative and try to find an approximate root \(x\) that fufills \(|f(x)| \leq \epsilon\), where \(\epsilon\) is a small number related as tolerance.
 Being \(f\) a nonlinear equation and \([a,b]\) the interval where the root has to be found, in each iteration, the bisection method algorithm evaluates \(f\) at the midpoint \(c\) of the interval \([a,b]\) and compares it against the evaluation at \(a\) and \(b\).</description>
     </item>
     
     <item>
       <title>Math Sample</title>
-      <link>https://shanonhaliwell.github.io/shanonhaliwell.github.io/post/2017-03-05-math-sample/</link>
+      <link>https://shanonhaliwell.github.io/post/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Shanonhaliwell&#39;s Blog)</author>
-      <guid>https://shanonhaliwell.github.io/shanonhaliwell.github.io/post/2017-03-05-math-sample/</guid>
+      <guid>https://shanonhaliwell.github.io/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
 
 &lt;p&gt;$$
